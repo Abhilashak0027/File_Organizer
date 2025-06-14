@@ -1,4 +1,4 @@
-# 📁 File Organizer Undo Tool (C++)
+# 📁 File Organizer  (C++)
 
 This is a simple C++ console application that undoes file organization by moving files from categorized subfolders (like `Images`, `Documents`, etc.) back into the original folder.
 
